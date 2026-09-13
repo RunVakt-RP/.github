@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://runvaktrp.netwide.network/">
-  <img src="./assets/runvakt-logo.png" alt="RunVakt RP" width="420">
+  <img src="./assets/RunVakt_RP_Logo.png" alt="RunVakt RP" width="420">
 </a>
 
 <br>
